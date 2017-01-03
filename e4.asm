@@ -34,7 +34,7 @@ begin:
 	ld	a,24
 	ld	[blankTile],a
 
-	ld a,0
+	ld a,200
 	ld [sineOffset],a
 
 	ld	a, %11100100
